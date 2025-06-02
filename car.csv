@@ -1,0 +1,1001 @@
+"id","make","model","year","price"
+1,"Chevrolet","G-Series G30",1995,56733.89
+2,"Toyota","4Runner",1996,30391.77
+3,"Lexus","RX",2012,6537.82
+4,"Dodge","Ram 2500",1996,48262.84
+5,"Mitsubishi","GTO",1993,70156.81
+6,"Lexus","LS",2007,23342.25
+7,"Porsche","Boxster",2000,58733.11
+8,"Subaru","Legacy",1990,54683.4
+9,"GMC","Savana 3500",2002,90809.33
+10,"Mitsubishi","Galant",1995,89616.37
+11,"GMC","Suburban 1500",1996,18932.28
+12,"GMC","Envoy XL",2004,67920.47
+13,"GMC","Rally Wagon 1500",1992,39693.16
+14,"Toyota","Matrix",2011,28009.56
+15,"Honda","Civic Si",2003,75689.41
+16,"Lexus","SC",2000,7624.16
+17,"Buick","LaCrosse",2007,45544.37
+18,"Mazda","Mazda6",2008,84934.48
+19,"Pontiac","Fiero",1985,80988.89
+20,"Mercedes-Benz","190E",1992,56436.72
+21,"Buick","Rendezvous",2006,10115.55
+22,"Ford","Crown Victoria",2010,78396.83
+23,"Mitsubishi","Tredia",1985,57687.25
+24,"Audi","A8",2000,58122.96
+25,"Kia","Rio",2003,76142.76
+26,"Audi","A3",2012,43063.28
+27,"Lincoln","Continental",2002,50284.78
+28,"Porsche","944",1991,81206.05
+29,"Chevrolet","Cavalier",2003,9454.43
+30,"Subaru","Forester",2011,63286.2
+31,"Ford","Bronco",1993,73270.74
+32,"Dodge","Sprinter",2009,48291.73
+33,"Toyota","Camry",2000,15337.75
+34,"Oldsmobile","Alero",2003,19640.87
+35,"Ford","Laser",1989,97915.54
+36,"Toyota","Avalon",2001,14365.91
+37,"Dodge","Durango",2006,84132.43
+38,"Kia","Rio",2004,99143.32
+39,"Hyundai","Tiburon",2000,70356.41
+40,"Lamborghini","Gallardo",2007,6895.79
+41,"BMW","3 Series",2012,96800.06
+42,"Dodge","Dakota",1994,55491.85
+43,"Chrysler","New Yorker",1992,45507.37
+44,"Mercedes-Benz","SL-Class",2001,91070.07
+45,"Mitsubishi","Eclipse",2008,66393.35
+46,"Mercedes-Benz","E-Class",1997,60954.29
+47,"Maserati","Quattroporte",1984,84148.79
+48,"Kia","Sedona",2012,37631.29
+49,"Lexus","IS",2009,38720.66
+50,"Chevrolet","Impala",2005,53079.12
+51,"Mitsubishi","Endeavor",2006,4640.06
+52,"Chevrolet","Silverado 2500",2006,60825.44
+53,"Ford","Fusion",2012,76446.29
+54,"Ford","Bronco II",1990,66117.08
+55,"Lotus","Esprit",1988,14587.66
+56,"Mazda","Millenia",1997,29763.61
+57,"Chevrolet","Camaro",1972,4053.14
+58,"Jaguar","X-Type",2008,58196.86
+59,"Mercedes-Benz","R-Class",2011,67379.42
+60,"Lexus","ES",2008,81840.64
+61,"Mitsubishi","Montero",2005,80171.93
+62,"GMC","Safari",2003,85663.34
+63,"BMW","550",2006,37612.78
+64,"Chevrolet","Silverado 1500",2008,57749.46
+65,"Ford","Mustang",1999,67277.68
+66,"Bentley","Azure",2008,45465.38
+67,"BMW","X5 M",2012,67303.98
+68,"BMW","M3",2008,55326.94
+69,"Ford","E-Series",2007,63783.7
+70,"Nissan","Pathfinder",2005,57449.01
+71,"Toyota","MR2",1995,93581.62
+72,"Alfa Romeo","Spider",1992,96561.38
+73,"Nissan","Pathfinder",1996,63391.19
+74,"Dodge","Ram 1500",2000,68056.51
+75,"Cadillac","Escalade",2007,40982.32
+76,"BMW","M3",2011,65685.46
+77,"Buick","Riviera",1995,26887.76
+78,"Suzuki","SJ",1994,93949.67
+79,"Pontiac","Grand Am",1992,74070.59
+80,"Suzuki","Equator",2009,96736.33
+81,"Honda","Civic",2003,29926.25
+82,"Audi","A8",2002,4019.14
+83,"Nissan","Sentra",2010,73412.86
+84,"Ford","F150",2012,30461.17
+85,"Dodge","Dakota",2000,42199.02
+86,"Mercedes-Benz","SL-Class",1994,57799.96
+87,"Mercury","Tracer",1989,49059.53
+88,"Mercedes-Benz","S-Class",2003,66367.63
+89,"Land Rover","Freelander",2002,11117.27
+90,"Porsche","928",1995,43730.14
+91,"Dodge","Caravan",2001,36919.39
+92,"Plymouth","Voyager",1993,8026.89
+93,"Mitsubishi","Eclipse",1999,75204.19
+94,"Mercury","Cougar",1997,19841.43
+95,"Maserati","Karif",1989,96701.14
+96,"Suzuki","SJ",1986,34292.26
+97,"Mitsubishi","Tundra",2009,24099.42
+98,"Nissan","GT-R",2013,46794.09
+99,"Toyota","Tacoma",2008,61404.74
+100,"Audi","200",1991,51147.84
+101,"Buick","Coachbuilder",1994,97652.4
+102,"Volvo","C70",2010,62985.3
+103,"Toyota","Celica",2000,48160.43
+104,"GMC","Envoy XL",2004,86116.2
+105,"Chevrolet","Corsica",1993,28395.0
+106,"Pontiac","Solstice",2009,84703.75
+107,"Ford","Crown Victoria",2005,57189.55
+108,"Saab","9000",1997,97292.39
+109,"Volkswagen","Fox",1988,81881.19
+110,"Mazda","RX-8",2008,22982.61
+111,"Toyota","Prius Plug-in",2012,54837.74
+112,"Toyota","Camry",2000,75375.73
+113,"Porsche","Cayman",2010,4841.21
+114,"Mercedes-Benz","300TE",1993,29992.01
+115,"Mercury","Cougar",1987,76948.82
+116,"Hyundai","Elantra",2012,26898.1
+117,"Maserati","Biturbo",1984,82492.78
+118,"Mitsubishi","Galant",1991,28444.63
+119,"Chevrolet","G-Series 3500",1998,18986.81
+120,"Oldsmobile","Aurora",2003,52074.76
+121,"Dodge","Ram 1500",2010,32880.57
+122,"Ford","Econoline E250",1995,54167.36
+123,"Lexus","GX",2008,66979.2
+124,"Mitsubishi","Lancer",2009,97172.0
+125,"Mitsubishi","Cordia",1988,87156.94
+126,"Chrysler","300",2011,64438.94
+127,"Porsche","924 S",1987,58490.97
+128,"Chevrolet","Aveo",2008,43657.21
+129,"Volkswagen","Cabriolet",1993,94356.5
+130,"Chrysler","300",2011,99208.15
+131,"Ford","Tempo",1987,36050.02
+132,"Volkswagen","GTI",2011,19143.1
+133,"Mazda","Protege",1998,30828.48
+134,"Ford","Expedition EL",2008,43791.1
+135,"Geo","Prizm",1992,46037.21
+136,"Buick","Enclave",2008,34290.2
+137,"Mitsubishi","RVR",1994,73775.37
+138,"Volvo","940",1994,8297.01
+139,"BMW","750",2006,92183.21
+140,"Mitsubishi","Pajero",1989,22419.85
+141,"GMC","Savana 1500",1999,75303.79
+142,"Ford","Windstar",1999,73264.18
+143,"Nissan","Rogue",2012,21280.34
+144,"Ford","Expedition",2004,16781.91
+145,"Dodge","Caravan",2011,70392.53
+146,"Pontiac","Grand Prix Turbo",1990,91429.31
+147,"Ford","Thunderbird",1977,7653.1
+148,"Dodge","Ram 1500",1997,14018.6
+149,"Dodge","Ram 3500",2009,83871.73
+150,"Ford","Escort",1995,28248.34
+151,"Pontiac","Bonneville",2004,31138.76
+152,"Hummer","H1",2003,38594.69
+153,"Mitsubishi","Mighty Max",1986,34282.79
+154,"Ford","F350",2004,39848.15
+155,"Mazda","MPV",2002,24479.1
+156,"Rolls-Royce","Ghost",2012,43070.93
+157,"Spyker","C8",2007,77156.1
+158,"BMW","X6",2013,73541.3
+159,"Hyundai","Tucson",2006,78510.53
+160,"Lincoln","MKS",2012,21830.5
+161,"Maybach","62",2010,75270.63
+162,"Dodge","Durango",2008,77223.84
+163,"Subaru","Brat",1987,12667.65
+164,"Porsche","Panamera",2013,31190.85
+165,"Mazda","Protege",1996,97506.96
+166,"Chevrolet","Silverado 2500",2003,29926.61
+167,"Nissan","Maxima",2001,74429.33
+168,"Hyundai","Genesis",2012,75091.51
+169,"Hillman","Minx Magnificent",1950,43395.95
+170,"Oldsmobile","Bravada",1999,20064.26
+171,"Isuzu","Rodeo Sport",2003,68977.89
+172,"Buick","LeSabre",1993,33685.85
+173,"Audi","R8",2009,16770.17
+174,"Chevrolet","Tracker",2003,57418.23
+175,"Jeep","Liberty",2007,58546.05
+176,"Mazda","B-Series",2001,46996.52
+177,"Lincoln","MKT",2013,90181.36
+178,"Mitsubishi","GTO",1992,52849.83
+179,"Toyota","Sienna",2009,14524.45
+180,"Cadillac","DTS",2008,23656.54
+181,"Lexus","ES",1994,16166.85
+182,"Suzuki","XL-7",2005,24154.23
+183,"Ford","E150",2004,74611.47
+184,"Volvo","S70",1998,99819.03
+185,"Bentley","Continental Flying Spur",2006,5456.36
+186,"Kia","Rio",2003,55574.15
+187,"Mercedes-Benz","C-Class",2005,5459.94
+188,"Pontiac","Trans Sport",1998,50497.37
+189,"Pontiac","Firebird",1987,61726.69
+190,"Cadillac","DeVille",1997,11870.43
+191,"Chevrolet","2500",2000,24328.05
+192,"Ford","Tempo",1989,34791.72
+193,"Toyota","Tundra",2009,99493.92
+194,"Chevrolet","Corvette",1995,35076.56
+195,"Chrysler","300",2005,30942.17
+196,"Porsche","Boxster",2009,64907.75
+197,"Ford","Ranger",2010,28699.92
+198,"Toyota","Sienna",1999,89560.14
+199,"BMW","X5",2011,43735.99
+200,"Subaru","Impreza",1997,29943.66
+201,"Lexus","ES",2010,37100.96
+202,"Ford","Taurus",1995,71604.5
+203,"Mercedes-Benz","190E",1992,49329.96
+204,"Chevrolet","Lumina",2001,38212.31
+205,"Mercury","Capri",1994,42239.24
+206,"Dodge","Charger",2008,4682.43
+207,"Eagle","Summit",1992,44075.07
+208,"Dodge","Aries",1981,42514.07
+209,"Mitsubishi","Eclipse",2010,90595.02
+210,"Chevrolet","Lumina",1994,70150.76
+211,"Lincoln","Navigator",1998,67809.63
+212,"Acura","RSX",2004,91822.14
+213,"Infiniti","M",2007,99239.49
+214,"Hummer","H2",2003,74137.54
+215,"Mercedes-Benz","CL-Class",2006,89015.36
+216,"Lotus","Elan",1991,82495.62
+217,"Nissan","200SX",1998,31048.5
+218,"Aston Martin","Vanquish S",2006,78112.45
+219,"Dodge","Stratus",2000,98322.84
+220,"Chevrolet","Camaro",1970,84051.62
+221,"Toyota","Paseo",1996,58390.15
+222,"Smart","Fortwo",2009,95554.69
+223,"Mitsubishi","Montero Sport",2004,5659.86
+224,"Chevrolet","Corvette",1963,74507.42
+225,"Mitsubishi","Mirage",1999,82789.1
+226,"Ford","Windstar",1999,24793.75
+227,"Volkswagen","New Beetle",2006,10728.48
+228,"Ford","F350",2000,91853.58
+229,"Acura","NSX",2000,48274.73
+230,"Honda","Prelude",1992,48859.78
+231,"Suzuki","Vitara",2001,40708.55
+232,"Volkswagen","Passat",2002,61755.96
+233,"Nissan","Xterra",2001,43932.55
+234,"Chevrolet","Lumina",1994,84781.43
+235,"Dodge","Viper RT/10",1994,85368.18
+236,"Cadillac","STS-V",2006,19488.3
+237,"Ford","Expedition",2001,35154.49
+238,"Mazda","Mazda6 Sport",2006,47337.77
+239,"Mazda","626",1988,50594.48
+240,"Chevrolet","Suburban 1500",2009,37197.42
+241,"Acura","TL",1996,63800.48
+242,"Hyundai","HED-5",2012,82554.14
+243,"BMW","M5",2000,78684.32
+244,"Mazda","Miata MX-5",1994,38073.64
+245,"Ford","F250",1993,49907.81
+246,"Isuzu","Rodeo",2003,63085.32
+247,"Chevrolet","Impala",2012,77010.92
+248,"Land Rover","Defender",1993,39431.68
+249,"Mercedes-Benz","E-Class",1986,60939.69
+250,"Volkswagen","rio",2002,18877.04
+251,"Aston Martin","Vantage",2011,34523.13
+252,"Toyota","RAV4",2012,88659.02
+253,"Chevrolet","G-Series 1500",1997,43564.54
+254,"Ford","F-Series",1987,99829.27
+255,"Audi","A5",2012,26332.9
+256,"Land Rover","Discovery",2010,43859.16
+257,"Mercedes-Benz","CLK-Class",1998,77264.66
+258,"Lexus","LX",2000,86301.13
+259,"Oldsmobile","Intrigue",2002,94938.28
+260,"Dodge","Viper",2002,98975.62
+261,"Volkswagen","Passat",1998,41022.52
+262,"Dodge","Caravan",1985,61132.91
+263,"Audi","A6",2005,16697.45
+264,"Chevrolet","Silverado 2500",2006,57995.66
+265,"Acura","RL",2004,77861.87
+266,"Chrysler","300M",2001,34522.44
+267,"Mazda","Mazda6",2007,19492.09
+268,"Volkswagen","Jetta",1999,20028.32
+269,"Ford","E250",2012,45309.39
+270,"GMC","Jimmy",1993,82341.63
+271,"Saab","900",1997,55764.9
+272,"Oldsmobile","98",1994,88329.89
+273,"Nissan","Maxima",1993,37402.69
+274,"Mercury","Tracer",1997,49365.25
+275,"Suzuki","Reno",2008,59051.33
+276,"Mitsubishi","Lancer Evolution",2002,46756.33
+277,"Toyota","RAV4",2011,58184.6
+278,"Jeep","Grand Cherokee",1996,17929.07
+279,"Volvo","XC90",2003,61967.24
+280,"Mercedes-Benz","Sprinter 2500",2012,65279.03
+281,"Nissan","350Z Roadster",2006,37452.22
+282,"Mazda","Miata MX-5",2009,79053.64
+283,"Mitsubishi","GTO",1992,48699.67
+284,"Chevrolet","Cruze",2013,59554.84
+285,"Oldsmobile","Toronado",1966,18200.02
+286,"Suzuki","Cultus",1985,82912.84
+287,"Mazda","RX-8",2009,44908.27
+288,"Honda","Pilot",2008,54708.17
+289,"Audi","A3",2009,70811.01
+290,"Honda","Prelude",1998,68623.99
+291,"Volvo","960",1995,75091.63
+292,"Isuzu","Hombre",2000,65521.58
+293,"Mazda","Mazda5",2008,69640.72
+294,"Lexus","ES",1991,29788.76
+295,"Buick","Somerset",1986,57287.29
+296,"Saab","900",1994,87801.66
+297,"Chevrolet","Corvette",1997,68564.74
+298,"Mitsubishi","Pajero",1999,62842.5
+299,"Infiniti","G",2010,48826.29
+300,"Chevrolet","Corvette",1999,83018.03
+301,"Pontiac","Sunfire",1996,4717.18
+302,"Acura","TL",1998,93235.55
+303,"Honda","Odyssey",2001,79965.06
+304,"Dodge","Ram 3500",2010,59558.21
+305,"Lincoln","MKS",2009,6202.05
+306,"BMW","Z8",2002,27985.76
+307,"BMW","745",2004,6534.2
+308,"BMW","Z4",2003,31867.37
+309,"Chevrolet","Express 3500",1999,24381.05
+310,"Chevrolet","Cavalier",1992,80240.65
+311,"Pontiac","Firefly",1991,57816.45
+312,"Chevrolet","Camaro",1998,81460.68
+313,"Pontiac","GTO",1967,29136.39
+314,"Volkswagen","Passat",1996,22161.63
+315,"Ford","Contour",1999,48745.75
+316,"Dodge","Ram",2008,28259.72
+317,"Ford","Fiesta",2011,38725.95
+318,"Chevrolet","Caprice",1983,54862.9
+319,"Acura","Legend",1988,9050.03
+320,"Volkswagen","Passat",1990,74119.9
+321,"Mercedes-Benz","SL-Class",1992,65940.96
+322,"Chrysler","Concorde",2000,79593.22
+323,"Mazda","Mazda5",2012,83581.19
+324,"Suzuki","Sidekick",1991,4133.61
+325,"Pontiac","Grand Am",1991,48060.71
+326,"Chevrolet","Tahoe",2006,61165.27
+327,"Infiniti","QX",2006,47858.47
+328,"GMC","Sierra 2500",2008,69093.95
+329,"Volkswagen","Golf",1999,41443.9
+330,"Mazda","Familia",1987,17808.04
+331,"Chevrolet","Suburban 1500",1999,81549.28
+332,"Nissan","Armada",2007,19930.02
+333,"Chevrolet","Blazer",1998,95408.01
+334,"Mazda","B-Series",1991,27025.94
+335,"Mercury","Capri",1986,56740.0
+336,"Saturn","Aura",2008,38463.68
+337,"GMC","Envoy XUV",2004,63497.4
+338,"Mercedes-Benz","SLK-Class",2008,39591.08
+339,"Infiniti","Q",1994,16020.73
+340,"Audi","Coupe Quattro",1991,55634.3
+341,"Dodge","Caliber",2008,44348.44
+342,"GMC","Sierra 2500",2010,52266.6
+343,"Mercedes-Benz","W201",1990,25443.25
+344,"Honda","Civic",2001,15652.94
+345,"GMC","Yukon",2010,90508.82
+346,"Infiniti","FX",2012,98196.16
+347,"Lincoln","MKS",2011,32358.24
+348,"Acura","CL",2001,97414.05
+349,"Chevrolet","Corvette",1993,25999.08
+350,"Lincoln","MKX",2012,28226.41
+351,"Kia","Sportage",2010,69251.34
+352,"Mazda","Mazda5",2009,23211.49
+353,"Lexus","ES",1996,21677.3
+354,"Dodge","Intrepid",1996,12403.6
+355,"Honda","Ridgeline",2009,37911.5
+356,"Maserati","Spyder",2004,84545.06
+357,"Infiniti","EX",2008,78528.44
+358,"Lincoln","Mark VIII",1995,38625.58
+359,"Ford","Freestar",2006,5497.58
+360,"Saab","9-5",2008,19399.07
+361,"Ford","F350",1993,36351.64
+362,"Jaguar","XJ Series",1998,7939.1
+363,"Hyundai","Elantra",2005,89951.79
+364,"Dodge","Grand Caravan",2005,6581.64
+365,"Mercedes-Benz","M-Class",2006,52604.79
+366,"Mitsubishi","Montero",2002,53777.99
+367,"Ford","Crown Victoria",2007,78994.14
+368,"Mitsubishi","Truck",1996,88953.72
+369,"Oldsmobile","Intrigue",1998,53517.67
+370,"Mercedes-Benz","E-Class",2003,34251.67
+371,"GMC","Sierra",2007,18483.14
+372,"Honda","Accord",2012,50850.33
+373,"Toyota","Tundra",2009,29854.68
+374,"Volvo","960",1994,7016.21
+375,"Toyota","Tundra",2001,64217.37
+376,"Volkswagen","GTI",2008,75074.81
+377,"Dodge","D250 Club",1992,14654.18
+378,"BMW","3 Series",2007,26234.58
+379,"Lamborghini","Countach",1988,66570.87
+380,"Cadillac","Escalade ESV",2010,90152.37
+381,"Toyota","Celica",1982,61230.42
+382,"Land Rover","Defender 90",1995,59222.81
+383,"Plymouth","Voyager",1994,38875.23
+384,"Mercedes-Benz","SL-Class",2007,7605.11
+385,"Scion","xA",2006,60215.92
+386,"GMC","Sierra 2500",2003,6545.11
+387,"Buick","LeSabre",1999,42119.83
+388,"Volvo","XC60",2011,14947.79
+389,"Chevrolet","Colorado",2005,61957.55
+390,"Honda","Odyssey",1996,42621.01
+391,"Mercedes-Benz","R-Class",2010,71831.01
+392,"Ford","Bronco II",1985,48231.28
+393,"Lincoln","Mark VII",1992,27457.63
+394,"Lexus","CT",2012,57917.39
+395,"Dodge","Intrepid",2001,23268.72
+396,"Audi","Q5",2012,67516.71
+397,"Aston Martin","DBS",2008,69434.11
+398,"Chrysler","Pacifica",2005,77906.75
+399,"Saab","9000",1995,81448.24
+400,"Buick","Rainier",2007,35637.2
+401,"Chevrolet","Suburban",2007,87983.43
+402,"Chevrolet","S10",1997,75864.57
+403,"Subaru","Baja",2006,47789.58
+404,"Honda","Prelude",1985,56275.48
+405,"Toyota","Tacoma",2002,77661.44
+406,"GMC","Sierra 1500",2009,37259.94
+407,"Mercedes-Benz","CLK-Class",2006,53793.85
+408,"Plymouth","Acclaim",1992,66313.32
+409,"Chevrolet","APV",1993,8214.23
+410,"Cadillac","Catera",2001,56361.65
+411,"Ford","F-250 Super Duty",2006,60112.09
+412,"Chevrolet","Sportvan G30",1995,49042.31
+413,"Lincoln","Town Car",2003,40666.6
+414,"Chevrolet","Silverado 3500",2001,63125.48
+415,"Mitsubishi","Lancer Evolution",2011,48407.61
+416,"Chevrolet","Silverado",2007,76157.87
+417,"Volkswagen","Cabriolet",1985,19623.74
+418,"Suzuki","Swift",1996,72731.71
+419,"Aston Martin","Virage",2012,10300.27
+420,"Dodge","Ram 3500",1999,11109.23
+421,"Volvo","XC90",2006,20270.48
+422,"Subaru","Legacy",1995,94841.82
+423,"Lotus","Esprit",1985,18063.49
+424,"Ford","Thunderbird",1984,78819.05
+425,"Hyundai","Elantra",1999,62180.27
+426,"Aptera","Type-1h",2010,41951.86
+427,"Chevrolet","Colorado",2005,11855.04
+428,"Chevrolet","Astro",1998,44069.12
+429,"Chevrolet","Sportvan G30",1996,8773.33
+430,"Chevrolet","Camaro",1967,39122.64
+431,"Toyota","Sequoia",2001,95224.97
+432,"Dodge","Grand Caravan",1993,82140.71
+433,"Buick","Park Avenue",1994,62024.75
+434,"Volkswagen","Fox",1990,26807.68
+435,"Mazda","MX-5",2001,88129.8
+436,"Isuzu","Hombre Space",1999,63195.38
+437,"Kia","Soul",2010,40593.61
+438,"BMW","8 Series",1992,38222.14
+439,"Mazda","Protege5",2002,92506.24
+440,"Audi","Cabriolet",1997,25212.42
+441,"Mercedes-Benz","W201",1988,16225.74
+442,"Porsche","Cayenne",2012,87196.14
+443,"Mitsubishi","Lancer Evolution",2006,17685.24
+444,"Ford","LTD Crown Victoria",1990,92468.89
+445,"BMW","5 Series",2003,57193.48
+446,"Toyota","Venza",2009,91178.58
+447,"Infiniti","QX56",2012,73921.14
+448,"Chevrolet","Cavalier",1996,67001.07
+449,"Ford","Taurus",1995,6928.68
+450,"Land Rover","Freelander",2011,76675.01
+451,"Aston Martin","DBS",2011,35891.15
+452,"Cadillac","CTS-V",2012,15003.98
+453,"Volkswagen","Jetta",1998,37768.43
+454,"Mazda","Tribute",2009,88809.23
+455,"Hyundai","Sonata",2000,68678.13
+456,"Mitsubishi","GTO",1998,48269.94
+457,"Chevrolet","Express 1500",1999,32771.53
+458,"BMW","X3",2011,6815.35
+459,"GMC","Yukon XL 2500",2004,71923.51
+460,"Honda","CR-V",2008,90810.67
+461,"Jaguar","XK",2010,33432.48
+462,"Chevrolet","Beretta",1993,78925.88
+463,"Ford","E-Series",2002,7434.28
+464,"Cadillac","CTS",2004,79063.59
+465,"Jeep","Wrangler",2003,80565.41
+466,"Lexus","IS",2005,85475.91
+467,"GMC","Savana",2007,29244.17
+468,"Chevrolet","S10",1997,13364.2
+469,"Nissan","Quest",2004,9119.83
+470,"Mercury","Mountaineer",1999,88060.36
+471,"Honda","S2000",2000,93016.99
+472,"Nissan","Frontier",2000,23001.91
+473,"Nissan","Quest",2002,82850.46
+474,"Ford","Taurus",1999,20215.13
+475,"Daewoo","Nubira",2002,69807.89
+476,"Cadillac","Eldorado",1997,79670.42
+477,"Buick","Skylark",1986,35955.6
+478,"Nissan","Frontier",2003,63159.22
+479,"Mercury","Sable",1994,56161.54
+480,"Jeep","Patriot",2007,99343.48
+481,"Ford","Explorer",2010,83964.96
+482,"Chevrolet","Silverado 2500",2007,39066.06
+483,"Toyota","Celica",1994,32922.59
+484,"Nissan","Cube",2011,6392.04
+485,"Hyundai","HED-5",2012,80440.59
+486,"Lexus","ES",2012,57507.16
+487,"Acura","NSX",2004,83826.54
+488,"Mercedes-Benz","CLS-Class",2006,36027.65
+489,"Mercedes-Benz","S-Class",1984,73505.15
+490,"Cadillac","Escalade EXT",2003,7590.59
+491,"Acura","ZDX",2012,71285.75
+492,"Chevrolet","Monza",1975,89395.13
+493,"Mercedes-Benz","E-Class",1991,16673.98
+494,"Kia","Amanti",2007,13106.16
+495,"Mercedes-Benz","SLK-Class",2007,60297.65
+496,"Plymouth","Sundance",1993,37523.1
+497,"Mercedes-Benz","SLS AMG",2012,39603.61
+498,"Saturn","VUE",2004,58537.66
+499,"Toyota","4Runner",2005,24089.18
+500,"Audi","RS4",2008,76877.14
+501,"GMC","Yukon XL 1500",2009,48247.22
+502,"Hyundai","Santa Fe",2011,84846.6
+503,"Acura","Integra",1999,55276.76
+504,"Chevrolet","Corvette",1964,89902.04
+505,"Plymouth","Prowler",1999,16149.55
+506,"Mercedes-Benz","W201",1987,34400.69
+507,"Mercedes-Benz","SL-Class",2002,93058.04
+508,"Acura","MDX",2006,26952.53
+509,"Geo","Prizm",1993,68360.01
+510,"Mazda","RX-7",1988,29980.1
+511,"Jeep","Liberty",2010,44825.95
+512,"Aston Martin","DB9",2012,24805.8
+513,"Volkswagen","Jetta",1984,50456.89
+514,"Nissan","Maxima",1994,77264.03
+515,"Pontiac","GTO",1969,29025.74
+516,"Suzuki","Swift",1987,36214.72
+517,"Infiniti","G",1996,99840.87
+518,"Audi","A4",2012,10555.06
+519,"Honda","Odyssey",1998,38423.31
+520,"GMC","Terrain",2011,64003.6
+521,"Kia","Rio",2011,44571.73
+522,"Mercury","Mountaineer",2004,27884.59
+523,"Lexus","LS",2011,87876.47
+524,"Volkswagen","Beetle",1967,11718.73
+525,"Mercury","Milan",2007,18762.49
+526,"Chevrolet","Caprice",1992,36291.3
+527,"Ford","Taurus",1991,6152.39
+528,"BMW","3 Series",1998,14021.19
+529,"Volvo","S80",2001,70698.03
+530,"Nissan","Rogue",2008,23018.46
+531,"Oldsmobile","Achieva",1994,9643.51
+532,"Ford","Mustang",1974,9511.78
+533,"Chevrolet","Equinox",2005,94772.6
+534,"Hyundai","Elantra",1997,68657.82
+535,"Smart","Fortwo",2008,87732.43
+536,"Mitsubishi","GTO",1990,31385.98
+537,"Pontiac","Safari",1989,42318.48
+538,"Toyota","Corolla",1999,89704.14
+539,"Ford","Crown Victoria",2011,30849.54
+540,"GMC","Yukon",2004,4162.14
+541,"Mitsubishi","Chariot",1985,51288.97
+542,"Plymouth","Breeze",2000,31650.19
+543,"Volvo","V50",2011,41369.13
+544,"Infiniti","J",1993,45075.58
+545,"Ford","Windstar",2000,72015.72
+546,"Dodge","Dakota Club",1994,90706.86
+547,"Toyota","Camry",2003,84129.65
+548,"Chevrolet","3500",1996,31655.34
+549,"Hyundai","Sonata",2001,22448.86
+550,"Ford","Bronco",1987,76828.1
+551,"Mercedes-Benz","CLK-Class",2008,19979.53
+552,"Mercedes-Benz","SLR McLaren",2006,23818.42
+553,"Ford","Ranger",1990,72216.09
+554,"Ford","Ranger",1984,67604.51
+555,"Mercury","Monterey",2007,83093.47
+556,"Kia","Soul",2010,99821.52
+557,"Subaru","Legacy",1993,10546.8
+558,"Honda","Ridgeline",2008,16669.96
+559,"Mercedes-Benz","S-Class",1986,44242.5
+560,"Buick","Enclave",2009,58494.11
+561,"Lincoln","Navigator L",2012,55165.59
+562,"Chevrolet","Express 2500",2003,44379.41
+563,"Ford","Taurus",1995,17512.63
+564,"Daewoo","Lanos",2002,67638.46
+565,"GMC","1500 Club Coupe",1998,30999.4
+566,"Hyundai","Veracruz",2011,33641.72
+567,"Hyundai","Elantra",2001,58049.47
+568,"Mazda","MX-5",1995,56412.54
+569,"Ford","Escort ZX2",2003,91313.9
+570,"Infiniti","Q",2003,73985.01
+571,"Saab","900",1990,41623.28
+572,"Chevrolet","Blazer",1996,48105.29
+573,"Toyota","Avalon",2007,5015.93
+574,"Lexus","GS",2005,47885.7
+575,"Lexus","LS",1997,6861.89
+576,"Aston Martin","Virage",2012,79752.35
+577,"Acura","RSX",2002,49019.52
+578,"Volkswagen","Touareg",2012,52809.98
+579,"Ford","Thunderbird",2003,61293.01
+580,"GMC","Canyon",2012,48515.68
+581,"Acura","MDX",2006,28926.84
+582,"Audi","R8",2008,11537.26
+583,"Ford","E-Series",1988,83799.77
+584,"Ford","Ranger",2006,89449.83
+585,"Mercury","Grand Marquis",2010,48129.04
+586,"GMC","Suburban 1500",1999,51485.47
+587,"BMW","Z3",1999,86192.7
+588,"Oldsmobile","Toronado",1992,50042.77
+589,"GMC","Rally Wagon G3500",1995,74946.38
+590,"Ford","Ranger",1995,97864.27
+591,"Mitsubishi","Mirage",1992,42339.61
+592,"Porsche","944",1987,73743.56
+593,"Lexus","RX",2003,14344.83
+594,"Dodge","Challenger",2009,59514.53
+595,"Chevrolet","Camaro",1968,68935.48
+596,"Buick","LeSabre",1990,53159.16
+597,"GMC","Yukon XL 1500",2005,93961.35
+598,"Lincoln","Town Car",1996,55183.6
+599,"Audi","80",1991,83178.78
+600,"Mazda","626",1983,58283.49
+601,"Oldsmobile","Silhouette",1999,79284.82
+602,"Volkswagen","Golf",2010,70417.82
+603,"BMW","5 Series",2001,22609.32
+604,"Holden","VS Commodore",1997,14803.36
+605,"Smart","Fortwo",2009,56632.42
+606,"Volkswagen","Golf",1992,16312.32
+607,"Lexus","LS Hybrid",2012,80901.28
+608,"Maybach","57",2009,25886.72
+609,"Ford","Expedition",2011,18013.87
+610,"Toyota","Sienna",2002,65203.16
+611,"Mitsubishi","Lancer",2011,67393.5
+612,"Ford","Thunderbird",1987,50729.16
+613,"Ford","Mustang",1998,11224.95
+614,"Cadillac","CTS-V",2006,37629.67
+615,"Lexus","HS",2011,64866.39
+616,"Plymouth","Grand Voyager",1996,66829.23
+617,"Mitsubishi","Starion",1984,49034.72
+618,"Audi","R8",2011,11888.1
+619,"Suzuki","Vitara",2000,47041.89
+620,"Oldsmobile","88",1994,49152.7
+621,"Buick","Park Avenue",2001,18409.53
+622,"Audi","A8",1999,81471.0
+623,"Ford","F-Series",2007,8245.29
+624,"Nissan","Frontier",2011,47030.79
+625,"BMW","X5",2011,14882.83
+626,"Ford","E-Series",2004,48121.65
+627,"Chevrolet","Malibu",2010,39531.14
+628,"BMW","645",2004,5157.86
+629,"Chevrolet","Caprice",1994,84355.12
+630,"Toyota","Avalon",2004,23244.19
+631,"Mercedes-Benz","S-Class",1996,12181.71
+632,"Chevrolet","S10",1998,75367.78
+633,"Acura","Legend",1994,80120.83
+634,"Mitsubishi","Diamante",1994,98428.11
+635,"Isuzu","Rodeo",2000,41524.28
+636,"Kia","Forte",2010,93115.02
+637,"BMW","3 Series",2001,24048.15
+638,"Nissan","Pathfinder",1992,58029.63
+639,"Mercedes-Benz","CL-Class",2006,94240.15
+640,"Toyota","Camry",1997,67248.99
+641,"Chrysler","Concorde",2003,4320.24
+642,"Jeep","Grand Cherokee",1993,50906.12
+643,"Lexus","LS",2012,9531.97
+644,"Lexus","LX",2008,4152.77
+645,"Subaru","Forester",2007,58591.01
+646,"Toyota","Tundra",2009,67714.12
+647,"Ford","Escape",2008,66039.22
+648,"Mazda","MPV",2004,44576.32
+649,"Mercedes-Benz","GLK-Class",2012,70610.07
+650,"Maserati","Quattroporte",2005,70896.85
+651,"Suzuki","Grand Vitara",2001,45300.14
+652,"Chevrolet","G-Series 2500",1998,62240.45
+653,"Dodge","Ram 3500",2006,20328.93
+654,"Ford","Ranger",1993,61837.15
+655,"Saab","9-5",2002,98869.45
+656,"Volvo","XC90",2004,96717.95
+657,"Dodge","Intrepid",2002,97105.94
+658,"Suzuki","Grand Vitara",2000,4309.42
+659,"Buick","Century",1990,62619.83
+660,"Subaru","Leone",1985,52246.4
+661,"Mitsubishi","Pajero",1987,35275.18
+662,"Volkswagen","Golf",2010,28127.25
+663,"Lexus","GS",1997,95127.04
+664,"Ford","LTD Crown Victoria",1989,44472.61
+665,"Toyota","FJ Cruiser",2012,76570.03
+666,"Mitsubishi","Eclipse",2006,46205.84
+667,"Subaru","Forester",2007,54741.99
+668,"Maserati","Karif",1990,63413.49
+669,"Mazda","B-Series Plus",1999,35451.73
+670,"Ford","Ranger",1986,62405.51
+671,"Ford","Festiva",1990,12836.26
+672,"Honda","Civic",1990,13549.04
+673,"Lincoln","Navigator",2000,85923.0
+674,"Hyundai","Tiburon",2001,83567.35
+675,"Subaru","Tribeca",2010,94480.69
+676,"Dodge","Grand Caravan",2005,56435.66
+677,"Lexus","LS",2009,98185.73
+678,"Mercury","Marquis",1984,95527.13
+679,"Dodge","Challenger",2012,67083.79
+680,"Hyundai","Elantra",2009,97829.76
+681,"Pontiac","Montana SV6",2006,58968.22
+682,"Nissan","Pathfinder",2000,67014.64
+683,"Audi","S4",2007,37030.1
+684,"Buick","Riviera",1998,4711.5
+685,"Chevrolet","Tracker",1998,84516.66
+686,"Ford","F250",2007,44171.26
+687,"Porsche","928",1986,6545.58
+688,"BMW","X5",2011,45670.85
+689,"Chevrolet","Aveo",2009,32463.93
+690,"Infiniti","FX",2005,25200.2
+691,"Cadillac","Escalade EXT",2011,82692.25
+692,"Chevrolet","Impala",2010,50400.1
+693,"Mercedes-Benz","E-Class",1995,12134.36
+694,"Cadillac","Escalade",2004,6091.01
+695,"Lexus","RX",2013,95434.31
+696,"Oldsmobile","88",1992,96162.49
+697,"Dodge","Ram 1500",2008,49495.53
+698,"Buick","Century",2003,45838.1
+699,"Hyundai","Genesis Coupe",2010,50340.45
+700,"Dodge","Caliber",2010,55273.72
+701,"Saturn","Astra",2009,52973.19
+702,"Mercury","Sable",1986,64863.7
+703,"Ford","Mustang",1964,55187.12
+704,"Lexus","LS",1991,30226.08
+705,"Ford","Probe",1995,14840.41
+706,"Volkswagen","Phaeton",2006,59316.09
+707,"Chevrolet","Suburban 2500",2011,66335.73
+708,"Chevrolet","Silverado 3500",2008,32058.47
+709,"Buick","Park Avenue",1993,6135.22
+710,"Lincoln","Continental Mark VII",1987,72969.37
+711,"Suzuki","Forenza",2007,17302.58
+712,"Volkswagen","Eurovan",1992,11486.65
+713,"Mazda","Millenia",1997,44402.89
+714,"Toyota","Venza",2011,39948.33
+715,"Honda","CR-V",2004,90751.97
+716,"Mitsubishi","Pajero",1995,79924.48
+717,"Aston Martin","V12 Vantage",2012,11619.37
+718,"Honda","Passport",2002,44155.73
+719,"Lotus","Exige",2011,85592.19
+720,"Ford","F-Series Super Duty",2010,17246.2
+721,"Toyota","Camry",2005,20634.32
+722,"Toyota","Avalon",2009,32132.21
+723,"GMC","Yukon XL 2500",2007,98043.74
+724,"Lexus","LX",2011,80929.97
+725,"Acura","TSX",2009,86127.1
+726,"Dodge","Grand Caravan",1993,95995.74
+727,"Honda","Ridgeline",2006,54743.87
+728,"Mazda","MPV",1990,95468.85
+729,"Ford","Explorer Sport Trac",2002,9212.05
+730,"Lincoln","MKS",2013,23331.53
+731,"Chevrolet","Impala SS",1995,36217.54
+732,"Ford","Explorer",1998,20884.25
+733,"Ford","LTD Crown Victoria",1993,24911.0
+734,"Mercedes-Benz","G-Class",2005,26897.52
+735,"Acura","RL",2010,84589.58
+736,"Dodge","Durango",2012,27731.84
+737,"Dodge","Ram 1500",1998,71489.66
+738,"Nissan","370Z",2011,93043.25
+739,"Isuzu","Stylus",1993,16723.18
+740,"Ferrari","F430",2008,84084.17
+741,"Chevrolet","Colorado",2004,5008.81
+742,"Chevrolet","Monte Carlo",1998,97650.36
+743,"Buick","Regal",1988,38022.57
+744,"Chevrolet","Corvette",2005,63283.37
+745,"Volkswagen","Passat",1985,54342.93
+746,"Mitsubishi","Galant",2006,78118.38
+747,"Pontiac","Grand Prix",1976,75277.32
+748,"Dodge","Caravan",1998,24702.87
+749,"Honda","Prelude",1999,90269.95
+750,"Bentley","Continental Flying Spur",2012,78212.4
+751,"Plymouth","Grand Voyager",1996,30977.4
+752,"Toyota","Sequoia",2004,92764.36
+753,"Scion","xD",2008,46265.08
+754,"Chevrolet","Beretta",1993,71849.49
+755,"Toyota","Tundra",2001,6591.02
+756,"Suzuki","Samurai",1993,20427.27
+757,"Chrysler","LHS",1999,78426.47
+758,"Ford","Laser",1985,85396.82
+759,"Mitsubishi","Tundra",2009,14144.17
+760,"Ford","Club Wagon",1998,13489.9
+761,"Toyota","Xtra",1995,81007.31
+762,"Chrysler","PT Cruiser",2007,42438.84
+763,"Ford","Thunderbird",1995,59190.88
+764,"Buick","LaCrosse",2012,62253.52
+765,"MINI","Clubman",2011,95405.34
+766,"Volkswagen","Golf",1987,8345.14
+767,"Chevrolet","Colorado",2011,50869.45
+768,"Oldsmobile","Intrigue",2000,61244.19
+769,"Honda","Accord",1991,40006.18
+770,"Lotus","Elise",2008,66037.99
+771,"Jeep","Compass",2010,26530.96
+772,"GMC","Sonoma Club Coupe",1997,76795.92
+773,"Chrysler","Town & Country",2001,76542.8
+774,"Ford","F350",1993,26132.74
+775,"Mercedes-Benz","CL-Class",2008,86647.47
+776,"Mazda","Miata MX-5",1999,95762.19
+777,"Dodge","Ram Van 3500",2000,84411.56
+778,"Audi","S4",2007,73389.46
+779,"Pontiac","Firebird",1985,59536.64
+780,"Land Rover","Range Rover",2006,11558.01
+781,"Volkswagen","Passat",1995,17991.92
+782,"Maserati","Spyder",2003,13933.54
+783,"Mitsubishi","Starion",1988,17526.56
+784,"Mitsubishi","Pajero",1985,70996.36
+785,"Mazda","Millenia",1998,29150.85
+786,"Chrysler","Voyager",2002,49289.95
+787,"Isuzu","Rodeo Sport",2003,52893.91
+788,"Pontiac","Fiero",1985,93385.98
+789,"BMW","3 Series",1994,79685.88
+790,"GMC","Suburban 1500",1996,4466.9
+791,"Lexus","LX",2004,58752.42
+792,"Suzuki","XL7",2006,19974.55
+793,"Ford","Probe",1996,6845.65
+794,"Dodge","Ram 1500",2005,46719.07
+795,"Audi","100",1992,81606.71
+796,"Ford","E350",2012,49002.49
+797,"Pontiac","Gemini",1988,59278.08
+798,"Ford","Focus",2007,45683.47
+799,"Ford","E150",2008,97987.51
+800,"Cadillac","SRX",2012,86886.68
+801,"BMW","7 Series",1992,34493.31
+802,"Ford","Thunderbird",1980,83652.38
+803,"Honda","Insight",2012,18409.35
+804,"Land Rover","Range Rover",1989,39459.52
+805,"Toyota","Corolla",2007,21824.01
+806,"Ford","F-Series Super Duty",2010,71005.49
+807,"Lexus","LS",2012,71220.81
+808,"Maserati","Spyder",1991,98923.22
+809,"Ford","E350",2004,65968.49
+810,"Lexus","GS",2007,15809.52
+811,"Honda","Ridgeline",2007,87162.41
+812,"Ford","Focus",2001,48597.2
+813,"Jaguar","XJ Series",1996,33387.04
+814,"Suzuki","Esteem",2002,12118.49
+815,"Mercedes-Benz","500SEC",1993,68594.49
+816,"Jeep","Wrangler",2005,5959.78
+817,"Chevrolet","Silverado 1500",2010,66542.28
+818,"Mazda","MX-5",2008,83239.64
+819,"Porsche","911",2008,60043.02
+820,"Ford","Freestyle",2005,44145.09
+821,"Toyota","Highlander",2008,99886.78
+822,"Mitsubishi","Mighty Max Macro",1993,5963.5
+823,"Toyota","Camry",2003,99405.12
+824,"Volkswagen","Golf",2006,11112.24
+825,"Saab","9-3",2006,97295.64
+826,"Ford","Aerostar",1994,88903.68
+827,"Ford","Econoline E150",2002,6746.7
+828,"GMC","Safari",2000,35059.97
+829,"Toyota","Sequoia",2007,83368.74
+830,"Toyota","MR2",2004,72195.77
+831,"Mercedes-Benz","Sprinter",2011,83222.35
+832,"Mercedes-Benz","C-Class",2002,20304.96
+833,"GMC","Rally Wagon 2500",1992,41881.17
+834,"Chevrolet","Express 1500",2007,65409.51
+835,"Infiniti","G",1999,9098.24
+836,"Volvo","S80",2003,76423.34
+837,"Oldsmobile","Bravada",1996,25498.14
+838,"Volkswagen","GTI",1993,71038.8
+839,"Dodge","Ram 1500",2003,89933.04
+840,"Acura","RL",2006,84522.66
+841,"GMC","Savana",2010,58779.11
+842,"Dodge","Stratus",2004,8688.86
+843,"Acura","NSX",2002,76919.07
+844,"Chevrolet","Camaro",1993,80480.59
+845,"Chevrolet","Malibu",2001,64674.8
+846,"Ford","E-Series",1989,16929.42
+847,"Dodge","Ram Van B150",1992,50367.68
+848,"Nissan","Sentra",2012,85550.42
+849,"Acura","NSX",2002,64506.0
+850,"Ford","Festiva",1989,29602.89
+851,"Mercury","Sable",1988,27438.15
+852,"Dodge","Dakota Club",2000,37458.89
+853,"Plymouth","Grand Voyager",1999,62769.56
+854,"Holden","VS Commodore",1996,92926.91
+855,"Toyota","Avalon",2008,60148.56
+856,"GMC","Envoy XL",2005,25618.77
+857,"Kia","Spectra",2004,19672.44
+858,"Mazda","Mazda5",2010,87278.18
+859,"Lexus","IS",2011,97142.16
+860,"Dodge","Dakota",2005,48074.73
+861,"Honda","Pilot",2010,55118.66
+862,"Infiniti","QX",2003,64326.16
+863,"Lamborghini","MurciÃ©lago",2008,28369.44
+864,"Mazda","MX-6",1996,64335.13
+865,"Lamborghini","Diablo",1999,66925.35
+866,"Volkswagen","New Beetle",2002,30552.16
+867,"Nissan","240SX",1992,4702.78
+868,"Chevrolet","Camaro",1985,68010.04
+869,"Chevrolet","Camaro",2010,79889.04
+870,"Chevrolet","Traverse",2009,7377.76
+871,"Lotus","Elise",2006,7684.8
+872,"Saturn","L-Series",2003,6258.25
+873,"Lexus","HS",2012,16885.74
+874,"Infiniti","Q",1998,52890.13
+875,"Buick","LeSabre",1994,77165.57
+876,"Volvo","XC70",2008,12616.26
+877,"Mazda","Tribute",2006,6852.8
+878,"Lincoln","MKX",2007,5054.58
+879,"Ford","Crown Victoria",2001,22746.85
+880,"Oldsmobile","Intrigue",2002,76054.8
+881,"Mazda","Mazdaspeed 3",2008,36146.61
+882,"Isuzu","Oasis",1999,95320.7
+883,"BMW","M3",2001,48973.17
+884,"Dodge","Dakota",2001,16039.31
+885,"Hyundai","Sonata",1993,23676.64
+886,"Toyota","Echo",2000,60443.56
+887,"Mercury","Tracer",1991,51840.2
+888,"Dodge","Ram Van 3500",1997,92143.71
+889,"Lincoln","Town Car",2000,57009.24
+890,"Toyota","FJ Cruiser",2007,5104.53
+891,"Audi","A8",2003,79749.15
+892,"Dodge","Dakota",2005,31553.62
+893,"Isuzu","Trooper",1996,72310.17
+894,"Honda","Civic",2000,59684.86
+895,"GMC","Sierra 1500",2006,94105.97
+896,"Volkswagen","Rabbit",2008,73812.42
+897,"Bentley","Continental GT",2008,86746.16
+898,"Honda","Civic",2005,12025.53
+899,"Toyota","Highlander",2010,10841.03
+900,"Suzuki","XL7",2008,79576.72
+901,"Lexus","ES",2001,42992.75
+902,"Honda","Element",2010,22921.82
+903,"Chevrolet","Express 3500",1996,30867.13
+904,"Ford","F250",2007,88237.46
+905,"Acura","NSX",1996,48720.11
+906,"Chevrolet","Traverse",2011,83353.15
+907,"Audi","Q7",2010,88172.41
+908,"Ford","F350",2003,94488.64
+909,"Nissan","Pathfinder",2012,38962.97
+910,"Volkswagen","Jetta",1986,4083.32
+911,"Lexus","GS",1999,30152.21
+912,"Fiat","Nuova 500",2012,50298.34
+913,"Lincoln","Town Car",2002,95074.72
+914,"Suzuki","Grand Vitara",2006,27291.07
+915,"Chevrolet","Sportvan G30",1996,95091.96
+916,"Land Rover","Freelander",2002,93194.41
+917,"Ford","Econoline E350",1997,60684.41
+918,"Suzuki","SJ",1994,88059.33
+919,"Dodge","Ram 2500",2003,81421.04
+920,"BMW","X3",2006,73278.29
+921,"Toyota","Tundra",2008,32268.2
+922,"Toyota","Corolla",2007,17521.62
+923,"Mercury","Mountaineer",2000,22679.07
+924,"Land Rover","Discovery",2011,9014.92
+925,"Ford","Mustang",2004,67694.29
+926,"Hyundai","Sonata",2002,92541.6
+927,"Bentley","Continental Flying Spur",2011,17610.35
+928,"Chevrolet","Blazer",2002,89410.04
+929,"Volkswagen","Corrado",1994,70061.47
+930,"Volkswagen","Phaeton",2005,5573.98
+931,"Jaguar","S-Type",2005,48961.13
+932,"BMW","M Roadster",2008,49174.1
+933,"Nissan","Frontier",2000,56739.01
+934,"Lexus","IS",2010,50548.04
+935,"Hyundai","Santa Fe",2009,46128.27
+936,"Chevrolet","Impala",2010,46256.6
+937,"Cadillac","CTS",2004,78515.59
+938,"Cadillac","Escalade ESV",2006,22627.71
+939,"BMW","545",2005,54393.42
+940,"Subaru","Justy",1987,45471.5
+941,"Lincoln","LS",2003,78131.27
+942,"Honda","Pilot",2009,37137.55
+943,"Saab","9-3",2003,77048.3
+944,"BMW","7 Series",1996,53230.75
+945,"BMW","Z4 M Roadster",2009,5317.17
+946,"Dodge","Neon",1995,21503.87
+947,"Lincoln","Mark LT",2006,85809.58
+948,"Fillmore","Fillmore",1960,10274.48
+949,"Honda","CR-V",2001,43714.03
+950,"Chrysler","Fifth Ave",1993,11710.73
+951,"GMC","Yukon",2011,94258.85
+952,"Chevrolet","Malibu",2010,28453.26
+953,"Dodge","Dakota Club",1996,10899.88
+954,"Jeep","Liberty",2008,67195.14
+955,"Toyota","RAV4",2006,22688.91
+956,"Nissan","Maxima",1999,24562.15
+957,"Toyota","Sequoia",2007,80875.1
+958,"Volvo","S40",2002,73573.81
+959,"Suzuki","Vitara",2002,52725.02
+960,"Nissan","Sentra",2008,62653.61
+961,"Mercury","Grand Marquis",1998,93810.83
+962,"Honda","del Sol",1997,63505.32
+963,"Volkswagen","GLI",2008,37591.11
+964,"Suzuki","SX4",2011,9850.19
+965,"Dodge","Intrepid",1994,63777.4
+966,"Mazda","B2000",1985,95357.06
+967,"Subaru","Legacy",1994,19007.96
+968,"Volvo","C70",2004,62785.33
+969,"Kia","Rio",2008,89721.08
+970,"Chevrolet","Cobalt",2010,66295.42
+971,"Chevrolet","Corsica",1992,71600.88
+972,"Ford","Fairlane",1966,89529.4
+973,"Honda","Pilot",2012,48841.52
+974,"Nissan","Titan",2011,31989.98
+975,"Volkswagen","Passat",1991,5025.66
+976,"Ford","Econoline E150",2002,54124.55
+977,"Toyota","Yaris",2010,50768.08
+978,"GMC","Canyon",2010,16005.49
+979,"Mitsubishi","Pajero",2006,71409.36
+980,"Chrysler","Town & Country",2010,87167.35
+981,"Chevrolet","Caprice Classic",1994,87865.93
+982,"Toyota","Matrix",2009,74957.55
+983,"Mercedes-Benz","S-Class",2006,13699.09
+984,"Porsche","Boxster",2004,22743.52
+985,"Acura","Integra",1998,76330.38
+986,"Acura","RL",2004,92960.61
+987,"Dodge","Challenger",2008,21668.41
+988,"Chrysler","Sebring",2004,84318.86
+989,"Ram","C/V",2012,73228.69
+990,"Honda","Accord",2012,36576.83
+991,"Nissan","Quest",2007,49054.86
+992,"Dodge","D150 Club",1992,67814.9
+993,"Nissan","GT-R",2010,13392.38
+994,"Hummer","H1",1993,65859.89
+995,"GMC","1500 Club Coupe",1994,74909.54
+996,"Chevrolet","Suburban 1500",1995,33175.57
+997,"GMC","Jimmy",1999,31770.82
+998,"Chevrolet","Corvette",1996,70563.19
+999,"Kia","Sportage",2011,19000.82
+1000,"McLaren","MP4-12C",2012,15933.89
